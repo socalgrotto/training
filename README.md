@@ -1,4 +1,5 @@
 # training
 Training Docs
 
-Future place for holding all the training docs we want to disseminate, or maybe just for internal use
+- http://ropewiki.com/SoCal_Grotto_SRT_Gear_and_Technique_Resources
+- http://ropewiki.com/SoCal_Grotto_Gear_Recommendations
