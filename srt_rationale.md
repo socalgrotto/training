@@ -1,4 +1,4 @@
-##SRT Rational
+## SRT Rational
 This document attempts to capture the rational behind vertical caving gear and techniques. The scope is broad and these ideals should be applicable to most but maybe not all karst topography.
 
 ### Gear
