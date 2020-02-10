@@ -1,4 +1,4 @@
-#SoCal Grotto Intermediate SRT Skills List
+# SoCal Grotto Intermediate SRT Skills List
 
 Knots, Bends, Hitches:
 * All knots from Basic skills and…
