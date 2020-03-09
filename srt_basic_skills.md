@@ -12,10 +12,13 @@ Knots, Bends, Hitches:
 * Clove Hitch
 * Double Fisherman’s Bend
 * Prusik Hitch
+
 Rope and webbing storage:
 * Caver coil
+* Alpine coil
 * Rope packing
-* Tying a rope pad
+* Knots for rope bags
+* Basic rope pad use
 * Webbing daisy-chain
 
 Anchors:
