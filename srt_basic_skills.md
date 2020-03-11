@@ -1,7 +1,7 @@
 # Single Rope Technique
 ## Basic Skills List
 
-Learning objectives for a new vertical caver. There is no test, feel free to set yourself the goals of understanding how to safely employ these skills.
+Learning objectives for a new vertical caver. There is no test. These skills are building blocks for advanced techniques, and they will help you better understand your risk profile.
 
 Knots, Bends, Hitches:
 * Water Knot (w/ webbing)
